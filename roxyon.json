@@ -1,0 +1,9 @@
+{
+  "name": "roxyon-template-static",
+  "host": "my-site.roxyon.com",
+  "folder": "",
+  "runtime": "lumen",
+  "kind": "static",
+  "build": "",
+  "outDir": "public"
+}
